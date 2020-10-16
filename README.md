@@ -26,7 +26,7 @@ Push-Sum
 
  | Topology | Gossip | Push-Sum
 ---|---|---
- | Full Network | 10000 |10000
- | 2D | 10000 | 10000
+ | Full Network | 5000 |1000
+ | 2D | 50000 | 1000
  | Line | 1000 | 1000
- | Imperfect 2D | 10000  | 10000
+ | Imperfect 2D | 5000  | 1000
